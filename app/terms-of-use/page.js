@@ -8,7 +8,7 @@ export default function Page() {
       <PageHero eyebrow="Legal" title="Terms of Use" />
       <section className="section">
         <div className="wrap wrap--text legal">
-          <p className="note">Draft content. This page must be completed with Addax’s actual practices and reviewed by counsel for applicable Pakistani and UAE requirements before launch.</p>
+          {/* <p className="note">Draft content. This page must be completed with Addax’s actual practices and reviewed by counsel for applicable Pakistani and UAE requirements before launch.</p> */}
           <h2>Informational purpose</h2>
           <p>This website provides general information about Dubai property and is not an offer to sell.</p>
           <h2>Acceptable use</h2>

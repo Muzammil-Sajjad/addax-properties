@@ -8,7 +8,7 @@ export default function Page() {
       <PageHero eyebrow="Legal" title="Privacy Policy" />
       <section className="section">
         <div className="wrap wrap--text legal">
-          <p className="note">Draft content. This page must be completed with Addax’s actual practices and reviewed by counsel for applicable Pakistani and UAE requirements before launch.</p>
+          {/* <p className="note">Draft content. This page must be completed with Addax’s actual practices and reviewed by counsel for applicable Pakistani and UAE requirements before launch.</p> */}
           <h2>Personal data we collect</h2>
           <p>Name, email address, WhatsApp or phone number, location, budget, property preferences and messages you send through our forms.</p>
           <h2>Why we collect it</h2>
